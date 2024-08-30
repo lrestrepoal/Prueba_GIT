@@ -1,1 +1,3 @@
-Este es el inicio de un gran proyecto de presente y futuro
+Este es el inicio de un gran proyecto de presente y futuro.
+
+Basado en el análaisis de datos, la inteligencia articial, inteligencia empresarial.
